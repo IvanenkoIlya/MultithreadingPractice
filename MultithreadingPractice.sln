@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultithreadingPractice", "MultithreadingPractice\MultithreadingPractice.csproj", "{60D3B7C8-0B86-4428-B6F3-BA619D0A1496}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D3B7C8-0B86-4428-B6F3-BA619D0A1496}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D3B7C8-0B86-4428-B6F3-BA619D0A1496}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D3B7C8-0B86-4428-B6F3-BA619D0A1496}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D3B7C8-0B86-4428-B6F3-BA619D0A1496}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E6D8E395-80DD-4DE8-AA91-6FD74483D1E6}
+	EndGlobalSection
+EndGlobal
